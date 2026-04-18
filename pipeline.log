@@ -1,0 +1,5 @@
+2026-04-18 12:53:53,161 INFO:Fetched data from API
+2026-04-18 12:53:53,183 INFO:Cleaned data
+2026-04-18 12:53:53,186 INFO:Transformed data
+2026-04-18 12:53:53,213 INFO:Inserted data into DB
+2026-04-18 12:53:53,213 INFO:Pipeline completed successfully
